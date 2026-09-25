@@ -1,0 +1,31 @@
+# --- secrets ---
+.env
+.env.*
+!.env.example
+*.secret
+.known_hosts
+*.pem
+*.key
+id_*
+
+# --- router backups: contain /etc/shadow, Wi-Fi PSK, dropbear host keys ---
+backups/
+
+# --- large / downloadable binaries ---
+firmware/
+packages/
+*.bin
+*.itb
+*.apk
+*.ipk
+*.zip
+*.tar.gz
+*.tar.xz
+
+# --- misc ---
+.DS_Store
+graphify-out/cache/
+
+# --- IDE ---
+.idea/
+.vscode/

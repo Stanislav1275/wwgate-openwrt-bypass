@@ -1,0 +1,646 @@
+OK adminforge.de 176.9.8.206 200 0.213478
+FAIL animaunt.org 104.21.32.69
+OK archiveofourown.org 104.20.9.2 200 0.113840
+FAIL bbci.co.uk 212.58.249.207
+OK carnegieendowment.org 13.32.28.4 200 0.138971
+OK codelinaro.org 18.238.243.37 301 0.161567
+OK dailylviv.com 172.67.72.192 200 0.132884
+OK discours.io 8.6.112.0 200 0.134708
+OK ef.edu 8.6.112.0 301 0.137300
+OK expres.online 145.239.27.16 200 0.213387
+OK flipboard.com 13.249.8.77 200 0.128010
+OK germania.one 172.67.204.236 403 0.128814
+OK hackmd.io 99.83.179.177 200 0.855404
+OK hostgator.com 8.6.112.0 301 0.139014
+OK insearch.site 172.67.211.27 200 0.173274
+NODNS kasparov.ru
+OK knowyourmeme.com 172.66.170.251 403 0.123023
+OK linear.app 8.47.69.0 200 0.138387
+OK mail-api.proton.me 3.77.252.102 404 0.169832
+FAIL megapeer.ru 212.162.155.185
+OK musical.ly 127.0.0.1 200 0.029510
+OK nippon.com 18.65.185.84 302 0.692150
+FAIL omv-extras.org 64.52.108.32
+OK patriot.dp.ua 31.28.167.223 200 0.307630
+OK portal.lviv.ua 8.47.69.0 403 0.117871
+OK pvpessence.com 94.23.164.163 301 0.167195
+OK rentry.org 164.132.58.105 200 0.228018
+OK riseup.net 198.252.153.67 200 0.683780
+OK rutracker.net 172.67.136.246 502 0.123352
+NODNS scryde.world
+OK semnasem.org 172.67.210.188 200 0.135530
+OK slavicsac.com 173.231.197.51 301 0.417362
+FAIL startmail.com 145.131.90.136
+FAIL tayga.info 104.21.47.221
+OK threema.ch 203.56.112.78 301 0.159211
+FAIL trueblackmetalradio.com 193.105.135.106
+FAIL ukr.radio 91.194.250.159
+OK visualcapitalist.com 8.6.112.0 301 0.133121
+FAIL wonderzine.com 135.181.66.17
+OK yummyani.me 104.26.10.89 301 0.170041
+OK 10minutemail.com 8.47.69.0 403 0.182698
+NODNS ads-twitter.com
+OK anime-portal.su 31.172.76.20 200 0.093371
+FAIL as6723.net 194.88.206.156
+NODNS bcbits.com
+OK cbilling.eu 104.26.13.239 200 0.128411
+OK coinpayments.net 8.6.112.0 200 0.150302
+OK danbooru.donmai.us 8.6.112.0 200 0.119071
+NODNS dorama.live
+OK eggertspiele.de 208.69.78.59 301 0.183580
+NODNS f95-zone.to
+OK flisland.net 179.43.150.85 200 0.208574
+OK getoutline.org 172.67.133.219 200 0.123045
+FAIL halooglasi.com 92.249.55.87
+OK hqporner.com 104.21.81.219 200 0.125410
+OK instagram.com 157.240.253.174 301 0.284008
+OK kavkaz-uzel.eu 51.15.27.55 301 0.158951
+NODNS kolsar.org
+OK lingq.com 8.6.112.0 301 0.126592
+OK mailfence.com 217.182.28.160 200 0.198094
+OK megapeer.vip 104.21.23.95 200 0.121931
+OK musicbrainz.org 142.132.241.153 200 0.168671
+OK nnmclub.to 104.21.95.93 200 0.119794
+FAIL onlinesim.io 185.104.210.36
+OK pb.wtf 172.67.198.110 403 0.126918
+OK posle.media 198.202.211.1 301 0.119413
+FAIL quora.com 13.216.121.235
+NODNS republic.ru
+OK roar-review.com 104.21.80.161 301 0.129618
+OK rutracker.org 172.67.182.196 301 0.123776
+NODNS scryde1.net
+OK severreal.org 2.19.183.51 301 0.191019
+FAIL slifki.biz 157.90.33.74
+OK startpage.com 67.63.59.233 302 0.182130
+OK te-st.org 8.47.69.0 200 0.127658
+NODNS tik-tokapi.com
+NODNS ttwstatic.com
+OK ukrainer.net 8.47.69.0 301 0.117050
+FAIL vndb.org 82.192.72.172
+OK xhamster.com 104.16.4.81 200 0.132123
+OK zahav.ru 34.54.177.243 301 0.121380
+OK 9tv.co.il 8.6.112.0 403 0.174257
+FAIL anidub.com 104.21.62.203
+OK aol.com 52.2.242.90 301 0.312888
+OK babook.org 8.6.112.6 403 0.129743
+OK booth.pximg.net 210.140.139.133 301 0.288072
+NODNS chesscomfiles.com
+FAIL csskor.ill.in.ua 193.29.200.151
+OK deviantart.com 3.171.214.51 302 0.165114
+FAIL dw.com 194.55.26.46
+OK euronews.com 108.133.170.148 301 0.188243
+FAIL filmix.day 78.108.179.124
+OK freemedia.io 104.21.83.199 200 0.124851
+OK goodreads.com 44.215.118.51 301 0.321941
+OK hdrzk.org 82.221.128.102 403 0.371166
+OK iichan.hk 193.233.63.14 200 0.165654
+FAIL jskor.ill.in.ua 193.29.200.151
+OK kinovod.net 185.109.48.87 301 0.173976
+OK le-production.tv 194.58.104.164 301 0.080621
+OK lostfilm.tw 185.85.121.13 302 0.118148
+OK mashable.com 8.47.69.0 403 0.117254
+OK monolisa.dev 216.150.16.193 307 0.137606
+FAIL newsru.com 212.227.190.190
+FAIL nude-moon.org 104.21.39.211
+OK ovdinfo.org 8.6.112.0 301 0.133066
+OK politico.eu 8.6.112.0 301 0.133548
+OK prosleduetmedia.com 64.226.94.76 301 0.155899
+OK reddxxx.com 8.47.69.0 403 0.120379
+OK rezkify.com 179.43.154.140 403 0.301711
+OK ruscryde.net 195.201.128.179 301 0.186138
+NODNS sci-hub.se
+NODNS scryde7.net
+OK simplix.info 104.21.54.29 302 0.131257
+OK speedtest.net 151.101.66.219 301 0.172229
+OK svidomi.in.ua 104.21.90.117 200 0.125059
+OK theins.ru 8.6.112.0 200 0.141143
+NODNS tiktokv.us
+OK twinlife-systems.com 193.93.125.14 301 0.167329
+OK vesma.one 34.41.139.193 200 0.373908
+FAIL webmd.com 207.231.204.56
+OK xv-ru.com 8.47.69.0 301 0.136094
+FAIL abook-club.ru 185.155.96.196
+FAIL anilib.me 104.21.11.236
+OK api.service-kp.com 163.172.72.58 200 0.201271
+OK baginya.org 8.47.69.6 403 0.168943
+OK botnadzor.org 8.6.112.6 403 0.123002
+OK chub.ai 8.47.69.0 403 0.125320
+FAIL cub.red 104.21.77.208
+OK digash.live 172.66.0.96 200 0.131819
+OK e-hentai.org 172.66.140.62 403 0.119546
+FAIL europesays.com 172.232.56.86
+FAIL filmix.fan 104.21.67.149
+FAIL freeones.com 144.178.205.182
+FAIL gr-assets.com 216.74.34.10
+OK hdstudio.org 5.61.51.189 200 0.262725
+OK ilook.tv 8.6.112.0 302 0.132847
+OK jut-su.net 212.162.152.82 200 0.171093
+OK kinozal.guru 104.21.25.173 302 0.110671
+OK leafletjs.com 185.199.108.153 200 0.163640
+OK lostfilm.uno 172.67.209.11 200 0.130814
+OK mbk-news.appspot.com 216.58.201.180 200 0.121978
+FAIL more.fm 195.78.93.18
+OK newtimes.ru 49.13.52.126 200 0.167376
+OK obozrevatel.com 8.6.112.0 403 0.131754
+OK ozodi.org 2.19.183.34 301 0.162656
+OK politiken.dk 151.101.193.242 200 0.142113
+FAIL prostovpn.org 130.255.78.91
+OK redgifs.com 104.18.36.123 301 0.112801
+NODNS rezonans.media
+OK rustorka.com 104.21.52.252 520 0.131236
+FAIL sci-hub.st 186.2.163.201
+NODNS scryde8.net
+OK skat.media 104.21.37.157 200 0.127162
+OK spektr.press 172.67.186.182 200 0.135601
+OK svoboda.org 95.100.107.78 301 0.158138
+OK themoscowtimes.com 8.47.69.0 301 0.131246
+OK tiktokw.us 23.44.201.237 200 0.289091
+OK twinme.com 205.209.114.83 302 0.441717
+OK vesma.today 217.65.156.47 200 0.159143
+OK webtoons.com 210.89.168.77 301 0.384442
+OK xvideos-cdn.com 127.0.0.1 200 0.032818
+FAIL academy.terrasoft.ua 34.248.223.177
+NODNS anilibria.org
+NODNS api.theins.info
+OK baikal-journal.ru 51.15.27.55 200 0.169009
+OK bt4gprx.com 104.21.25.239 200 0.128743
+NODNS circlecrewpinkcrowd.com
+OK currenttime.tv 2.19.183.12 301 0.182269
+FAIL digikey.com 204.221.76.76
+OK e621.net 8.6.112.0 403 0.135470
+OK euroradio.fm 8.6.112.0 403 0.136597
+OK filmix.fm 172.67.222.70 301 0.135578
+OK gagadget.com 104.21.51.117 200 0.145186
+OK grani.ru 178.210.92.164 200 0.116316
+FAIL hentai-foundry.com 15.235.11.113
+OK important-stories.com 34.120.56.38 200 0.120999
+OK jut.su 8.6.112.0 200 0.128223
+OK kinozal.me 172.67.142.133 200 0.127365
+FAIL lib.rus.ec 209.42.197.18
+OK lostfilmtv2.site 172.67.150.8 200 0.135031
+OK mediazona.ca 172.67.173.185 200 0.123860
+NODNS moscowtimes.ru
+OK nhentai.com 8.6.112.0 403 0.147931
+OK ohmyswift.ru 195.201.223.207 301 0.168510
+OK pages.dev 8.47.69.0 301 0.123436
+OK polymarket.com 8.47.69.0 200 0.126722
+OK proton.me 63.181.206.14 200 0.166028
+OK redshieldvpn.com 142.202.51.58 302 0.178726
+OK rf.dobrochan.net 104.21.5.181 200 0.134019
+FAIL rutor.info 193.46.255.29
+OK scrollrevealjs.org 104.131.105.81 200 0.310846
+NODNS scryde9.net
+OK skiff.com 104.18.7.144 200 0.137853
+FAIL spiegel.de 128.65.223.150
+FAIL svoi.kr.ua 185.104.45.199
+OK thepiratebay.org 162.159.136.6 302 0.122881
+FAIL tiptop-vpn.com 104.21.70.85
+OK twirpx.com 104.21.4.91 301 0.120189
+OK vesty.co.il 192.115.80.55 302 0.159600
+FAIL welt.de 75.2.108.245
+OK xvideos.com 89.222.127.4 301 0.172880
+OK activatica.org 34.88.241.156 200 0.183223
+FAIL anilibria.tv 104.21.20.164
+OK apkmirror.com 104.17.67.215 403 0.120015
+FAIL bato.to 94.102.49.153
+FAIL btdig.com 168.222.241.49
+OK cloudtorrents.com 104.21.89.221 526 0.121793
+OK cursorinfo.co.il 8.47.69.0 200 0.125192
+OK digitalocean.com 104.19.173.68 301 0.134158
+OK echofm.online 46.224.109.214 200 0.176953
+OK eutrp.eu 213.108.104.111 200 0.214388
+FAIL filmix.la 104.21.91.54
+OK gamedistribution.com 54.77.185.141 200 0.269562
+OK graty.me 104.21.57.202 200 0.122606
+OK hetzner.com 213.133.116.44 301 0.168808
+OK incy.cc 138.199.24.219 200 0.477615
+OK kaktus.media 136.110.156.179 200 0.111870
+OK kinozal.tv 127.0.0.1 200 0.033463
+OK libgen.li 179.43.167.164 200 0.211578
+OK lu4.org 194.180.209.34 200 0.146054
+OK medium.com 162.159.153.4 403 0.129896
+OK mullvad.net 45.83.223.209 302 0.156533
+OK nhentai.net 8.6.112.0 403 0.113840
+OK oi.legal 172.67.220.11 301 0.121743
+OK pap.pl 45.60.74.29 301 0.169493
+FAIL pornhub.com 66.254.114.41
+OK protonvpn.com 185.159.159.140 200 0.168031
+OK refactoring.guru 104.21.25.25 200 0.128990
+OK rferl.org 2.19.183.4 301 0.244228
+FAIL rutor.is 193.46.255.26
+OK scryde.io 15.197.225.128 301 0.172885
+FAIL searchfloor.org 104.21.43.197
+OK skladchik.com 104.21.68.144 302 0.139415
+OK spreadthesign.com 52.211.49.215 302 0.200868
+OK svtv.org 104.21.24.152 200 0.126061
+FAIL theporndude.com 8.6.112.0
+OK torproject.org 116.202.120.166 301 0.176697
+FAIL ui.ill.in.ua 193.29.200.140
+OK viber.com 52.200.118.118 301 0.311399
+FAIL wiki.fextralife.com 138.199.46.65
+OK yande.re 198.251.89.183 301 0.206131
+OK adguard-vpn.com 8.47.69.0 451 0.234984
+NODNS anilibria.uno
+OK arbat.media 172.67.186.96 301 0.145956
+OK bbc.co.uk 151.101.64.81 301 0.202075
+OK bufferbloat.net 172.67.220.170 301 0.144948
+NODNS cnd2exp.online
+OK cyberghostvpn.com 172.66.132.11 301 0.136081
+OK dis.gd 8.6.112.0 302 2.472496
+OK edu-cisco.org 188.138.6.109 200 0.170186
+OK everand.com 151.101.194.152 451 0.160573
+OK flibusta.is 179.43.150.83 200 0.199245
+OK gamesrepack.com 104.21.33.155 200 0.124123
+OK gulagu.net 216.198.79.1 307 0.134166
+OK hitomi.la 185.165.169.231 200 0.205839
+OK indiehackers.com 8.6.112.0 301 0.121955
+OK kamatera.com 172.67.135.224 301 0.114704
+OK kinozaltv.life 5.45.87.206 200 0.171612
+OK licdn.com 144.2.15.25 403 0.425695
+OK lucid.app 2.19.183.28 301 0.123453
+OK meduza.io 8.6.112.0 200 0.149752
+OK multporn.net 8.6.112.0 200 0.146834
+OK nhl.com 8.6.112.0 301 0.119497
+OK okx.com 18.162.247.81 301 0.493468
+OK paperpaper.io 104.21.13.18 200 0.131536
+FAIL pornhub.org 66.254.114.41
+OK provereno.media 104.21.94.238 200 0.123930
+OK render-state.to 104.21.12.199 200 0.126671
+FAIL rima.media 216.150.1.1
+OK rutor.org 188.114.96.1 403 0.125925
+OK scryde.net 185.203.72.61 307 0.269130
+OK seasonvar.ru 195.63.143.40 200 0.171413
+OK sklatchiki.ru 104.21.80.186 404 0.134593
+NODNS sputnikipogrom.com
+OK swissinfo.ch 192.0.66.156 301 0.156356
+OK thetruestory.news 172.67.201.187 307 0.125998
+NODNS torrentgalaxy.to
+OK ukdevilz.com 185.73.221.242 301 0.167788
+OK vice.com 192.0.66.177 301 0.157917
+FAIL wilsoncenter.org 34.226.46.235
+OK yle.fi 13.249.8.15 200 0.108194
+OK adguard.com 104.18.188.9 302 0.171617
+OK anilibria.wtf 172.67.216.33 302 0.142341
+OK archive.ph 171.25.158.63 200 0.292155
+OK bbc.com 151.101.0.81 301 0.182584
+NODNS byteoversea.com
+OK cock.li 193.239.85.202 200 0.210945
+OK cyxymu.info 15.197.225.128 301 0.287478
+OK discord-attachments-uploads-prd.storage.googleapis.com 172.217.20.187 403 0.125952
+OK ef.com 8.6.112.0 301 0.168036
+FAIL exler.es 5.9.141.28
+OK flibusta.net 179.43.150.83 302 0.199987
+FAIL gelbooru.com 131.143.124.72
+OK hackernoon.com 8.47.69.0 200 0.124495
+OK holod.media 104.21.5.248 200 0.135422
+OK infineon.com 3.173.21.50 301 0.131957
+OK kara.su 87.236.16.19 200 0.090668
+OK knews.kg 35.186.252.223 200 0.113056
+OK liga.net 8.47.69.0 301 0.133497
+OK magaz.global 104.21.4.23 200 0.144191
+OK mega.nz 31.216.145.5 200 0.171880
+NODNS muscdn.com
+FAIL nih.gov 156.40.212.210
+OK olx.ua 18.66.112.48 403 0.159510
+FAIL paperpaper.ru 172.67.162.191
+OK pornolab.net 185.110.92.48 200 0.205075
+FAIL psiphon.ca 104.18.14.196
+OK rentry.co 8.6.112.0 200 0.125025
+OK riperam.org 104.21.49.216 200 0.129066
+NODNS rutracker.cc
+NODNS scryde.ru
+OK selezen.org 104.21.81.195 403 0.128510
+OK slashlib.me 104.26.6.124 403 0.121264
+NODNS squietpc.com
+OK t-invariant.org 172.67.151.83 200 0.122028
+OK thetvdb.com 108.157.228.112 200 0.113298
+OK trellix.com 34.149.146.46 301 0.121706
+OK ukr.net 35.186.218.67 301 0.120876
+OK vipergirls.to 80.251.153.114 302 0.162468
+OK windows10spotlight.com 217.160.144.244 200 0.180775
+OK yt3.googleusercontent.com 172.217.20.161 400 0.128679
+OK 1337x.to 172.67.188.67 403 0.194766
+OK adultmult.tv 207.207.210.50 302 0.523047
+FAIL animebest.org 185.53.179.130
+FAIL atn.ua 88.99.7.91
+OK bellingcat.com 104.20.30.192 301 0.136756
+OK cbilling.vip 104.21.5.188 403 0.129859
+OK coinsbee.com 104.26.14.193 302 0.129462
+OK deckbrew.xyz 104.21.56.161 301 0.147156
+NODNS doramalive.ru
+FAIL ej.ru 213.166.70.101
+OK fansly.com 18.165.122.49 200 0.119753
+OK fls.guru 185.68.16.130 200 0.213363
+OK gifyu.com 104.26.10.11 200 0.126562
+FAIL hd-rezka.tv 104.21.8.229
+OK hromadske.ua 8.6.112.0 403 0.141788
+OK interactivebrokers.co.uk 95.101.133.19 302 0.789168
+OK kavkazr.com 2.19.183.66 301 0.249938
+FAIL kor.ill.in.ua 193.29.200.157
+OK linkedin.com 130.211.32.14 200 0.110616
+OK mailo.com 213.182.55.221 301 0.187647
+OK merezha.co 104.21.22.165 200 0.130206
+OK musixmatch.com 99.84.152.12 301 0.160582
+OK nnmstatic.win 172.67.175.99 200 0.126213
+OK openmedia.io 172.67.178.190 200 0.127332
+NODNS phncdn.com
+OK postimees.ee 185.154.221.53 301 0.138685
+FAIL quora.com.cdn.cloudflare.net 162.159.153.247
+OK restream.io 54.192.35.92 200 0.146432
+OK root-nation.com 172.67.73.60 403 0.133008
+OK rutracker.wiki 172.67.128.13 403 0.139757
+NODNS scryde10.net
+FAIL shikimori.me 172.67.175.142
+NODNS sms-activate.io
+OK static.lostfilm.top 104.21.22.193 403 0.169179
+OK telegraf.by 104.21.87.20 301 0.120607
+OK tiktok.com 80.239.150.49 301 0.183755
+FAIL turbobit.net 212.192.240.178
+OK ukrinform.net 35.186.197.31 301 0.109084
+OK voanews.com 2.19.183.15 301 0.245656
+OK xhamsterlive.com 104.17.112.106 403 0.114702
+OK zaxid.net 8.6.112.0 200 0.128772
+OK 24.kg 157.180.71.149 200 0.262054
+OK agents.media 51.15.27.51 301 0.209428
+OK animedia.tv 172.67.140.179 301 0.150904
+OK attachments.f95zone.to 91.202.4.58 204 0.176165
+OK bestchange.ru 109.238.88.180 301 0.083807
+OK cdnbunny.org 89.125.255.8 200 0.165585
+NODNS coldfilm.city
+OK decrypt.day 172.67.215.218 451 0.133153
+OK doramy.club 5.252.32.173 200 0.159273
+OK ekhokavkaza.com 88.221.92.194 301 0.270851
+OK fapello.com 8.6.112.0 403 0.121498
+NODNS fn-volga.ru
+OK git.new 76.76.21.21 301 0.142175
+FAIL hdkinoteatr.com 104.21.28.6
+OK hs.fi 108.138.7.53 301 0.160826
+OK interfax.com.ua 8.47.69.0 200 0.123155
+NODNS kemono.su
+OK korrespondent.net 172.67.223.126 403 0.129906
+FAIL linktr.ee 151.101.66.133
+OK make.com 104.18.37.111 301 0.106872
+OK metacritic.com 172.66.2.166 301 0.224419
+OK mw2.wiki 194.180.209.134 403 0.158651
+OK notepad-plus-plus.org 95.128.40.104 200 0.179170
+OK opensanctions.org 34.54.55.70 307 0.098826
+FAIL phncdn.com.sds.rncdn7.com 66.254.122.16
+FAIL pravda.com 8.6.112.0
+OK r4.err.ee 141.101.90.17 200 0.138840
+OK rezka-ua.in 179.43.190.146 403 0.292452
+OK roskomsvoboda.org 8.6.112.0 302 0.140049
+FAIL sakhalin.info 172.67.158.231
+OK scryde11.net 13.248.213.45 200 0.357519
+OK shikimori.one 186.2.163.41 301 1.127104
+OK sndcdn.com 143.204.238.34 301 0.125413
+OK statology.org 34.160.17.71 418 0.725892
+OK telegraf.news 185.148.37.6 200 0.085582
+NODNS tiktokcdn-eu.com
+FAIL tuta.com 185.205.69.12
+OK ukrtelcdn.net 176.58.48.48 401 0.130094
+NODNS voidboost.cc
+FAIL xhcdn.com 88.208.5.209
+FAIL zbigz.com 5.252.154.157
+OK 4freerussia.org 188.114.96.1 301 0.179367
+OK ahrefs.com 8.6.112.0 200 0.152551
+OK animego.org 172.67.182.101 301 0.194402
+OK atv4.dnskp.cc 172.67.150.23 301 0.145320
+OK bihus.info 172.67.212.43 200 0.122852
+OK censor.net 8.47.69.0 403 0.138527
+FAIL coldfilm.ink 172.67.140.77
+OK deepstatemap.live 8.6.112.0 200 0.123921
+OK dovod.online 51.15.27.55 301 0.166482
+OK element14.com 23.210.170.27 301 0.134411
+FAIL fast-torrent.club 37.221.67.160
+OK fonge.org 5.148.169.160 200 0.179774
+OK glavred.info 8.6.112.0 200 0.144286
+NODNS hdrezka.ac
+FAIL i.sakh.com 104.21.92.178
+FAIL ionos.com 74.208.4.76
+FAIL kilo.ai 216.150.1.1
+OK kovcheg.live 104.21.56.135 200 0.129603
+FAIL livetv.sx 31.58.210.186
+OK malwarebytes.com 192.0.66.233 301 0.156559
+OK metal-archives.com 104.21.39.169 200 0.121608
+OK myanimelist.net 95.100.202.163 200 0.179012
+OK novaline.fm 31.128.182.3 200 0.227562
+OK opensea.io 8.6.112.0 200 0.116471
+OK pimpletv.ru 92.119.113.69 301 0.084480
+OK pravda.com.ua 8.47.69.0 301 0.120678
+FAIL radiojar.com 216.239.32.21
+OK rezka.ag 179.43.189.162 403 0.311736
+OK rublacklist.net 172.66.134.80 302 0.120555
+OK sakharovfoundation.org 108.179.229.145 200 0.421421
+OK scryde12.net 76.223.67.189 200 0.345201
+FAIL shiza-project.com 104.21.43.216
+OK sobesednik.com 172.67.179.234 301 0.116421
+NODNS steamstat.info
+OK telegraph.co.uk 65.9.62.2 301 0.116936
+NODNS tiktokcdn-us.com
+FAIL tuta.io 185.205.69.12
+OK unian.ua 172.66.162.208 301 0.126431
+OK vot-tak.tv 104.20.31.32 200 0.131944
+OK xnxx-cdn.com 127.0.0.1 200 0.039986
+OK zendesk.com 216.198.54.2 301 0.169500
+FAIL 4pna.com 185.104.45.199
+OK allegro.pl 5.134.213.80 403 0.231489
+OK animespirit.ru 172.67.175.179 301 0.131134
+OK audiobookbay.lu 93.152.233.45 200 0.216243
+OK blackseanews.net 172.67.164.113 301 0.127239
+OK censortracker.org 185.199.108.153 200 0.157964
+FAIL coldfilm.xyz 172.104.149.86
+OK delfi.lt 104.20.44.195 403 0.134297
+OK doxa.team 8.6.112.0 403 0.139822
+OK elements.envato.com 8.6.112.0 200 0.122180
+OK fastpic.org 185.82.126.98 200 0.208245
+OK forklog.com 45.82.31.247 200 0.196331
+OK glavred.net 172.66.171.114 200 0.124501
+OK hdrezka.ag 179.43.189.163 403 0.276989
+NODNS ibytedtos.com
+OK iptv.online 104.26.5.117 200 0.131901
+FAIL kilocode.ai 216.150.1.1
+OK krymr.com 2.16.6.222 301 0.235398
+OK liveuamap.com 8.47.69.0 403 0.117818
+OK manga-chan.me 62.210.214.105 404 1.220017
+OK metla.press 172.67.177.26 200 0.125148
+FAIL mydoramy.club 172.67.183.179
+OK novaya.no 172.67.207.252 200 0.139175
+FAIL opentrackr.org 93.158.213.92
+OK piratbit.top 172.67.189.95 403 0.118552
+OK primevue.org 188.114.97.1 301 0.120095
+FAIL radiosakharov.org 94.130.113.57
+FAIL rezka.cc 37.1.202.15
+OK rule34.art 172.67.176.100 200 0.117980
+FAIL sankakuapi.com 143.192.150.194
+NODNS scryde2.net
+OK showip.net 162.55.60.2 200 0.214816
+OK sophos.com 2.19.183.65 301 0.276683
+OK strana.news 104.21.32.9 200 0.121705
+OK temu.com 151.101.2.58 400 0.171188
+NODNS tiktokcdn.com
+OK tvdevinfo.com 185.25.119.98 200 0.211198
+FAIL unsplash.com 151.101.1.181
+FAIL vpngate.net 130.158.75.35
+OK xnxx-ru.com 8.47.69.0 301 0.137033
+OK zerkalo.io 104.20.30.88 403 0.117618
+OK 5sim.net 8.47.69.0 444 0.184651
+FAIL amdm.ru 92.42.15.22
+OK anistar.org 8.47.69.6 403 0.188356
+OK avira.com 52.58.28.12 403 0.194530
+OK bluehost.com 8.6.112.0 301 0.136576
+NODNS charhub.io
+OK colta.ru 104.21.65.143 301 0.128914
+OK delfi.lv 104.20.18.136 403 0.145319
+OK dpidetector.org 8.6.112.6 200 0.151818
+OK epidemz.net.co 104.21.56.234 200 0.146610
+OK ficbook.net 172.66.133.152 403 0.122280
+OK fortanga.org 153.92.218.246 200 0.171080
+OK godaddy.com 160.153.0.1 301 0.117067
+OK hdrezka.app 179.43.158.228 404 0.288579
+OK idelreal.org 2.19.183.4 301 0.226281
+OK is.fi 3.164.240.59 301 0.123393
+NODNS kino.pub
+FAIL kupujemprodajem.com 92.249.55.25
+OK locals.md 172.67.177.211 200 0.124488
+OK mangadex.org 45.129.229.2 200 0.155759
+OK mezha.net 172.67.191.13 403 0.133344
+OK navalny.com 8.47.69.0 200 0.125388
+OK novayagazeta.eu 8.47.69.0 200 0.134562
+NODNS opposition-news.com
+OK pixabay.com 8.6.112.0 403 0.123968
+OK privatekeys.pw 104.21.31.144 403 0.125161
+OK radiosvoboda.org 95.100.107.78 301 0.177241
+OK rezka.fi 82.221.105.34 403 0.379993
+OK rule34.us 131.143.124.71 200 0.338415
+FAIL sankakucomplex.com 143.192.150.194
+NODNS scryde3.net
+OK sibreal.org 95.100.107.98 301 0.711391
+OK sotaproject.com 104.21.55.104 200 0.119971
+OK strana.today 104.21.94.172 200 0.129152
+FAIL the-village.ru 135.181.66.25
+NODNS tiktokd.net
+OK tvfreedom.io 104.26.6.243 403 0.130651
+OK urlr.me 91.208.207.222 200 0.178531
+OK vpngen.org 167.235.137.95 200 0.151671
+OK xnxx.com 152.233.100.7 301 0.168505
+OK zona.media 8.47.69.0 200 0.128196
+OK 7dniv.rv.ua 51.77.117.40 429 0.229188
+OK amedia.site 5.45.74.142 301 0.198034
+OK anistars.ru 193.36.95.238 200 0.434346
+OK azathabar.com 88.221.92.187 301 0.280957
+FAIL booktracker.org 45.137.66.127
+OK chaturbate.com 104.19.161.95 200 0.135635
+NODNS coomer.su
+OK delivery.2d.net.co 104.21.90.139 403 0.128392
+OK dreamhost.com 13.226.209.120 301 0.330420
+OK eporner.com 94.75.220.1 301 0.164602
+FAIL filmitorrent.net 172.67.152.25
+FAIL forum.ru-board.com 94.156.128.52
+OK gofile.io 51.75.242.210 200 0.182397
+OK hdrezka.me 179.43.190.137 403 0.434582
+OK iditelesombase.org 188.114.96.1 301 0.124213
+OK istories.media 34.50.146.240 200 0.120593
+OK kinogo.ec 104.18.22.56 403 0.124480
+NODNS kym-cdn.com
+OK lolz.guru 172.67.223.126 301 0.127193
+OK mangahub.ru 37.221.65.175 200 0.165500
+OK mignews.com 104.21.28.169 200 0.130935
+OK neformat.com.ua 194.39.123.161 200 0.379010
+OK novayagazeta.ru 172.66.154.69 200 0.123154
+OK ovd.info 8.47.69.0 200 0.120798
+FAIL pixiv.net 210.140.139.158
+OK prnt.sc 8.6.112.0 520 0.134794
+OK rbc.ua 8.47.69.0 302 0.125790
+NODNS rezka.land
+OK rule34.xxx 8.47.69.0 403 0.117756
+FAIL sankakustatic.com 208.100.10.26
+NODNS scryde4.net
+OK signal.org 8.47.69.6 200 0.173322
+NODNS soundcloud.cloud
+OK supersliv.biz 95.133.166.179 200 0.213599
+OK thebarentsobserver.com 15.197.188.249 301 0.130349
+NODNS tiktokd.org
+OK tvrain.ru 109.234.211.254 301 0.117047
+OK usa.one 172.67.194.147 403 0.117857
+OK vpnlove.me 217.65.156.254 200 0.175750
+OK xnxx.net 79.127.140.223 200 0.169674
+OK 7tv.app 95.217.169.88 200 1.233346
+OK amnezia.org 108.157.214.44 200 0.127062
+NODNS annas-archive.org
+OK azattyq.org 95.100.107.83 301 0.732942
+FAIL boominfo.org 81.31.197.118
+OK cherta.media 51.15.27.55 200 0.178384
+OK coursera.org 18.66.102.2 301 0.181373
+OK depositphotos.com 135.84.52.6 200 0.173357
+OK dub.sh 64.239.109.65 429 0.163130
+OK espreso.tv 8.6.112.0 403 0.137731
+OK filmix.ac 172.67.191.48 301 0.133759
+OK foxnews.com 2.16.209.126 301 0.189435
+OK golosameriki.com 2.19.183.8 301 0.284034
+NODNS hdrezka.tech
+FAIL idolcomplex.com 143.192.150.194
+OK itch.io 8.47.69.0 200 0.148128
+FAIL kinogo.uk 104.21.78.63
+OK lamcdn.net 135.181.66.29 403 0.236722
+OK lostfilm.download 172.67.152.117 200 0.124530
+FAIL mangapark.net 104.21.95.189
+OK mmcdn.com 104.16.92.18 200 0.112768
+OK networksolutions.com 162.159.134.53 301 0.122386
+OK novyny.live 8.6.112.0 200 0.146772
+OK ovd.legal 8.47.69.0 301 0.119060
+OK playboy.com 172.66.0.209 403 0.148432
+OK proekt.media 8.47.69.0 403 0.127494
+OK realbooru.com 131.143.124.71 200 0.339652
+OK rezka.my 103.224.182.253 200 0.463307
+OK rus.delfi.ee 172.66.175.169 403 0.125397
+FAIL sap.com 130.214.229.163
+NODNS scryde5.net
+OK simplex.chat 185.199.109.153 200 0.149049
+OK soundcloud.com 52.84.150.52 200 0.159950
+OK surfshark.com 104.18.121.34 200 0.132287
+FAIL thebell.io 8.6.112.0
+OK tiktokv.com 2.16.1.234 404 1.180878
+OK tvrain.tv 109.234.211.251 200 0.097705
+OK usatoday.com 146.75.118.62 301 0.179861
+OK vpnpay.io 104.21.68.194 302 0.121113
+OK xnxx.tv 152.233.100.6 301 0.148824
+OK 7tv.io 95.217.169.233 200 0.184087
+OK amx.com 3.232.147.42 403 0.339111
+FAIL any.do 67.205.27.73
+OK babepedia.com 8.47.69.0 403 0.144855
+OK booth.pm 8.47.69.0 302 0.140915
+OK chess.com 104.18.140.67 301 0.119196
+FAIL croxyproxy.com 104.21.90.167
+OK designify.com 8.47.69.0 307 0.141210
+OK dumka.media 188.166.106.87 200 0.165386
+FAIL etahub.com 66.254.114.62
+OK filmix.biz 104.21.14.79 301 0.114213
+OK freedomletters.org 172.67.131.184 200 0.144416
+OK gonitro.com 199.60.103.131 301 0.128740
+OK hdrezka.tv 172.67.156.95 403 0.118053
+OK ign.com 151.101.193.135 302 0.174398
+OK itsmycity.ru 45.133.234.147 301 0.366887
+OK kinopub.me 179.43.190.143 403 0.295121
+OK lantern.io 104.18.28.242 200 0.132805
+OK lostfilm.tv 172.67.161.94 200 0.127520
+OK manyvids.com 13.249.8.38 301 0.130933
+OK modrinth.com 8.47.69.0 200 0.122416
+OK newsru.co.il 8.47.69.0 301 0.128072
+NODNS ntc.party
+OK ovd.news 172.67.190.171 301 0.150076
+FAIL polit.ru 172.67.177.190
+OK pronouns.page 8.47.69.0 200 0.136295
+OK realist.online 104.21.67.117 302 0.116408
+FAIL rezka.tv 5.45.86.244
+FAIL rus.jauns.lv 185.176.118.165
+NODNS saverudata.net
+NODNS scryde6.net
+OK simplex.im 172.232.156.21 200 0.115374
+OK sovetromantica.com 178.32.124.28 301 0.179853
+OK suspilne.media 8.6.112.0 403 0.124088
+OK theins.press 104.21.84.230 301 0.127758
+NODNS tiktokv.eu
+OK twin.me 193.93.125.14 301 0.169195
+OK verstka.media 8.47.69.0 200 0.127173
+OK wdfiles.com 107.20.139.170 403 0.325874
+OK xnxx3.com 8.6.112.0 301 0.120215

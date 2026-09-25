@@ -1,0 +1,54 @@
+package zapret2
+
+config main 'config'
+	option run_on_boot '1'
+	option FWTYPE 'nftables'
+	option POSTNAT '1'
+	option FLOWOFFLOAD 'none'
+	option INIT_APPLY_FW '1'
+	option DISABLE_IPV4 '0'
+	option DISABLE_IPV6 '1'
+	option FILTER_TTL_EXPIRED_ICMP '1'
+	option MODE_FILTER 'autohostlist'
+	option DISABLE_CUSTOM '1'
+	option WS_USER 'daemon'
+	option DAEMON_LOG_ENABLE '0'
+	option DAEMON_LOG_SIZE_MAX '2000'
+	option DAEMON_LOG_FILE '/tmp/zapret2+<DAEMON_NAME>+<DAEMON_IDNUM>+<DAEMON_CFGNAME>.log'
+	option AUTOHOSTLIST_INCOMING_MAXSEQ '4096'
+	option AUTOHOSTLIST_RETRANS_MAXSEQ '32768'
+	option AUTOHOSTLIST_RETRANS_RESET '1'
+	option AUTOHOSTLIST_RETRANS_THRESHOLD '3'
+	option AUTOHOSTLIST_FAIL_THRESHOLD '3'
+	option AUTOHOSTLIST_FAIL_TIME '60'
+	option AUTOHOSTLIST_UDP_IN '1'
+	option AUTOHOSTLIST_UDP_OUT '4'
+	option AUTOHOSTLIST_DEBUGLOG '0'
+	option NFQWS2_ENABLE '1'
+	option DESYNC_MARK '0x40000000'
+	option DESYNC_MARK_POSTNAT '0x20000000'
+	option FILTER_MARK '	'
+	option NFQWS2_PORTS_TCP '80,443'
+	option NFQWS2_PORTS_UDP '443'
+	option NFQWS2_TCP_PKT_OUT '20'
+	option NFQWS2_TCP_PKT_IN '10'
+	option NFQWS2_UDP_PKT_OUT '5'
+	option NFQWS2_UDP_PKT_IN '3'
+	option NFQWS2_PORTS_TCP_KEEPALIVE '0'
+	option NFQWS2_PORTS_UDP_KEEPALIVE '0'
+	option NFQWS2_OPT '
+--comment=RT_2026-09-24_v5
+
+--filter-tcp=443
+--filter-l7=tls
+--hostlist=/opt/zapret2/ipset/zapret-hosts-google.txt
+--payload=tls_client_hello
+--lua-desync=fake:blob=fake_default_tls:tcp_md5:tls_mod=rnd,dupsid,padencap:repeats=1
+
+--new
+--filter-tcp=443
+--filter-l7=tls <HOSTLIST>
+--payload=tls_client_hello
+--lua-desync=multisplit:pos=10,midsld:seqovl=1
+'
+

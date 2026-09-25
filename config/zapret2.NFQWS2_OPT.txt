@@ -1,0 +1,13 @@
+--comment=RT_2026-09-24_v5
+
+--filter-tcp=443
+--filter-l7=tls
+--hostlist=/opt/zapret2/ipset/zapret-hosts-google.txt
+--payload=tls_client_hello
+--lua-desync=fake:blob=fake_default_tls:tcp_md5:tls_mod=rnd,dupsid,padencap:repeats=1
+
+--new
+--filter-tcp=443
+--filter-l7=tls <HOSTLIST>
+--payload=tls_client_hello
+--lua-desync=multisplit:pos=10,midsld:seqovl=1

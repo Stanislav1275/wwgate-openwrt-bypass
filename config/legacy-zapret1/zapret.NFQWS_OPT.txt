@@ -1,0 +1,22 @@
+--comment=RT_blockcheck_2026-09-24
+--filter-tcp=443
+--hostlist=/opt/zapret/ipset/zapret-hosts-google.txt
+--dpi-desync=multidisorder
+--dpi-desync-split-pos=midsld
+
+--new
+--filter-tcp=80,443 <HOSTLIST>
+--dpi-desync=multidisorder
+--dpi-desync-split-pos=2,sniext+1,host+1,midsld
+
+--new
+--filter-udp=443 <HOSTLIST_NOAUTO>
+--dpi-desync=fake
+--dpi-desync-repeats=6
+--dpi-desync-fake-quic=/opt/zapret/files/fake/quic_initial_www_google_com.bin
+
+--new
+--filter-udp=19294-19344,50000-50100
+--filter-l7=discord,stun
+--dpi-desync=fake
+--dpi-desync-repeats=6

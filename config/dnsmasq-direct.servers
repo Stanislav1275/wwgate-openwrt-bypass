@@ -1,0 +1,11 @@
+# Домены, которые резолвятся НЕ через sing-box (реальные IP) → трафик идёт ядром напрямую через zapret2.
+# YouTube: без userspace-прокси sing-box, быстрее и стабильнее.
+server=/youtube.com/77.88.8.8
+server=/googlevideo.com/77.88.8.8
+server=/ytimg.com/77.88.8.8
+server=/ggpht.com/77.88.8.8
+server=/youtu.be/77.88.8.8
+server=/youtube-nocookie.com/77.88.8.8
+server=/youtubei.googleapis.com/77.88.8.8
+server=/youtube.googleapis.com/77.88.8.8
+server=/yt.be/77.88.8.8

@@ -1,0 +1,23 @@
+#!/bin/bash
+# Block commits that contain secrets.
+set -e
+fail=0
+files=$(git diff --cached --name-only --diff-filter=ACM)
+[ -z "$files" ] && exit 0
+for f in $files; do
+  case "$f" in .env|.env.*) [ "$f" != ".env.example" ] && { echo "BLOCKED: $f must not be committed"; fail=1; };; esac
+  case "$f" in backups/*|*.known_hosts) echo "BLOCKED: $f"; fail=1;; esac
+done
+patterns='vless://[0-9a-fA-F]{8}-|vmess://|trojan://[^<]|ss://[A-Za-z0-9]|BEGIN (RSA|OPENSSH|EC|DSA) PRIVATE KEY|option key '"'"'[^'"'"']{8,}|(PASSWORD|password)=['"'"'"]?[^'"'"'"<[:space:]]{6,}'
+scan_files=$(printf '%s\n' $files | grep -vx '.githooks/pre-commit' || true)
+if [ -n "$scan_files" ] && git diff --cached -U0 -- $scan_files | grep -E '^\+' | grep -vE '^\+\+\+' | grep -nE "$patterns"; then
+  echo "BLOCKED: staged changes look like they contain secrets (see lines above)."; fail=1
+fi
+# also block known literal secrets from local .env
+if [ -f .env ]; then
+  while IFS='=' read -r k v; do
+    v=${v#\'}; v=${v%\'}; v=${v%%#*}
+    case "$k" in *PASSWORD*|VSL) [ ${#v} -ge 6 ] && git diff --cached -- $files | grep -qF -- "$v" && { echo "BLOCKED: value of $k from .env found in staged changes"; fail=1; };; esac
+  done < <(grep -E '^[A-Z_]+=' .env)
+fi
+exit $fail
